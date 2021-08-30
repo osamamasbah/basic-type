@@ -1,0 +1,78 @@
+body {
+    background-color: #EEEE;
+
+}
+.Title{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.b1{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    height: 500px;
+}
+.b2{
+
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    float: left;
+}
+.b3{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 500px;
+    float: left ;
+}
+
+.menuItem{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+}
+.b3{
+    margin-top: 20px;
+    float: left;
+}
+
+.b4{
+float: left;
+margin-top: 10px;
+margin-left: 20px;
+}
+.b5{
+ float: left;
+ margin-top: 10px;
+ margin-left: 20px
+
+}
+
+.b6{
+    margin-top: 20px ;
+    float: left;
+}
+.b7{
+    clear: left;
+}
+.b8{
+    background-color: white;
+    height: 80px;
+    width: 346px;
+}
+.p9{
+    font-size: 11px;
+}
+.b11{
+    float: right;
+    margin-right: 200px;
+    
+}
+.b10{
+    float: left;
+    margin-right: 200px;
+}
